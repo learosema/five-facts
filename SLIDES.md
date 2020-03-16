@@ -3,7 +3,9 @@
 -----------------------------------------------
 ## Fact One
 
-* I have a twin brother who applied Penaten Cream to my whole body when I was a child
+* I have a twin brother who applied Penaten Creme to my whole body when I was a child
+
+![Cream](assets/cream.jpg)
 
 -----------------------------------------------
 ## Fact Two
@@ -13,7 +15,7 @@
 -----------------------------------------------
 ## Fact Three
 
-* I got the job at S2 through Twitter, with my [CodePen](https://codepen.io) profile as the only reference
+* I got the job at S2 through Twitter, with my [CodePen](https://codepen.io/terabaud/) profile as the only reference
 
 -----------------------------------------------
 ## Fact Four
@@ -23,4 +25,6 @@
 -----------------------------------------------
 ## Fact Five
 
-* I'm good at memorizing numbers
+* At school, I performed a coreography for 'Eiffel 65 - Blue' in the Sports Dancing course
+
+![Eiffel 65 - Blue](assets/blue.jpg)

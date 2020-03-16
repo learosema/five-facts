@@ -197,34 +197,13 @@ nav li.revealed a, nav li.current.revealed a {
 }
 
 .slide__image img {
-  width: 90vmin;
+  width: 15vw;
 }
 
-
-@media (min-width: 640px) {
-  .slide__image {
-    display: flex;
-    justify-content: center;
-    height: 50vh;
-  }
-
-  .slide__image img {
-    width: auto;
-    height: 100%;
-  }
-}
 
 @media (min-width: 768px) {
-  .slide__image {
-    display: block;
-    float: right;
-    width: calc(55vmin + 10vmax);
-    height: auto;
-    margin: 0 0 0 2vmin;
-  }
-
   .slide__image img {
-    width: 100%;
+    width: 16vw;
   }
 }
 
